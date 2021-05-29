@@ -1,0 +1,30 @@
+#main
+{
+  height: 100vh;
+}
+.col-lg-4 h1{
+  font-size: 70px;
+  font-family: cursive;
+  color: white;
+  
+}
+#submain
+{
+  background-color: black;
+  
+}
+#submain .col-lg-4
+{
+  border: 3px solid white;
+}
+#text
+{
+  background-image: linear-gradient(to right  ,#d6873e,#ea5da1);
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+#image
+{
+  background-image: url(../src/Assets/Mainpic.jpg);
+  background-size: 100% 100%;
+  
+}
